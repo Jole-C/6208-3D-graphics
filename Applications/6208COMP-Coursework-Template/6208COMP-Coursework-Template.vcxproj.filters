@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{34360e8d-0b78-40f0-b0f1-e9fe99ea94ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9d681266-ecfa-4684-b316-3382fc2f3ed2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{39dfdcab-65c3-49df-a15a-f21a912f102f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Base Classes">
+      <UniqueIdentifier>{1b740d4c-e923-484c-82da-39d68f220daf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Helpers">
+      <UniqueIdentifier>{49588d83-73a0-4a20-959b-f86a670dc730}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes\Objects">
+      <UniqueIdentifier>{a3e0faf3-6f11-4c25-9e6e-54a3b205e6c7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LJMULevelDemo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LJMUTextOverlay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Classes\Base Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshObject.cpp">
+      <Filter>Classes\Base Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshGenerator.cpp">
+      <Filter>Classes\Helpers</Filter>
+    </ClCompile>
+    <ClCompile Include="Spaceship.cpp">
+      <Filter>Classes\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="TerrainMeshHeightmap.cpp">
+      <Filter>Classes\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="TerrainMeshProcedural.cpp">
+      <Filter>Classes\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="TerrainMesh.cpp">
+      <Filter>Classes\Base Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="XAxisObject.cpp">
+      <Filter>Classes\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="SplineMesh.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Spline.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="SpaceStationSolarPanels.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="SpaceStationRocket.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="SpaceStationGun.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="SpaceStationDomes.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="SkySphere.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshParser.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Maxwell.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="MaterialGenerator.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="LightObject.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="LightController.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="EarthSphere.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="CustomVertexDX11.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="SolarSystem.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="ExplodingPlanet.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LJMULevelDemo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LJMUTextOverlay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Classes\Base Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshObject.h">
+      <Filter>Classes\Base Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshGenerator.h">
+      <Filter>Classes\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="Spaceship.h">
+      <Filter>Classes\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="TerrainMeshProcedural.h">
+      <Filter>Classes\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="TerrainMeshHeightmap.h">
+      <Filter>Classes\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="TerrainMesh.h">
+      <Filter>Classes\Base Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="XAxisObject.h">
+      <Filter>Classes\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="SplineMesh.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Spline.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="SpaceStationSolarPanels.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="SpaceStationRocket.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="SpaceStationGun.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="SpaceStationDomes.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="SkySphere.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshParser.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Maxwell.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="MathHelpers.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="MaterialGenerator.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="MaterialReflectanceInfo.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="LightObject.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="LightController.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="FastNoiseLite.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="EarthSphere.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="CustomVertexDX11.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="ArrayHelpers.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="SolarSystem.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="ExplodingPlanet.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="heightmap512X512.r16">
+      <Filter>Classes</Filter>
+    </None>
+    <None Include="vcxproj.zip">
+      <Filter>Classes</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="Win32\Debug\SplineMesh.obj">
+      <Filter>Classes</Filter>
+    </Object>
+  </ItemGroup>
+</Project>
