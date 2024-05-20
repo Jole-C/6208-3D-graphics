@@ -3,8 +3,8 @@ This is a project written for my final year 3D graphics course. It features rudi
 
 Of particular note are the latter two features, the procedural terrain generation, and spline based path movement.
 
-## This project must be run in Win32 mode.
-## The vcxproj.zip file must be unzipped.
-This is due to perforce.
-Find it in Applications\6208COMP-Coursework-Template
-## 6208-Coursework-Template must be set as the startup project.
+# Keep note of the following:
+- This project must be run in Win32 mode.
+- The vcxproj.zip file must be unzipped. This is due to perforce. Find it in Applications\6208COMP-Coursework-Template
+- 6208-Coursework-Template must be set as the startup project.
+- All .cpp and .h files must be reincluded within Applications\6208COMP-Coursework-Template\ (right click > add > existing item > all .cpp all .h)
