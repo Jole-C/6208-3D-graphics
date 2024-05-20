@@ -5,5 +5,5 @@ Of particular note are the latter two features, the procedural terrain generatio
 
 ## This project must be run in Win32 mode.
 ## The vcxproj.zip file must be unzipped.
-# This is due to perforce.
-# Find it in Applications\6208COMP-Coursework-Template
+This is due to perforce.
+Find it in Applications\6208COMP-Coursework-Template
