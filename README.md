@@ -7,3 +7,4 @@ Of particular note are the latter two features, the procedural terrain generatio
 ## The vcxproj.zip file must be unzipped.
 This is due to perforce.
 Find it in Applications\6208COMP-Coursework-Template
+## 6208-Coursework-Template must be set as the startup project.
